@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi!! 👋 Im Abhirama Sonny!
+- 🏫 I'm in 9th Grade, studying at Allen High School
 
-<!--
-**abhiramasonny/abhiramasonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I'm interested in Machine learning (computer vision), Competitive Programming and Mathematics
+- I'm working on a science fair project right now
 
-Here are some ideas to get you started:
+    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirama.sonny@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills 🛠 
+
+## Languages and Libraries
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&)
+
+
+## Data Analysis
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![MatPlotLib](https://img.shields.io/badge/Mat%20Plot%20Lib-34A853?style=for-the-badge&logo=plt&logoColor=white)
+
+## Machine Learning and Data Visualisation 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+# Socials and Links 
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhiramasonny.github.io/) 
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirama-sonny-90452127b/)
