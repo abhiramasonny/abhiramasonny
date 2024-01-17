@@ -39,4 +39,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=abhiramasonny&show_icons=true" />
-</picture>)
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramasonny)](https://github.com/anuraghazra/github-readme-stats)
