@@ -1,10 +1,10 @@
-# Hi!! 👋 Im Abhirama Sonny!
-- 🏫 I'm in 9th Grade, studying at Allen High School
 
-- 👀 I'm interested in Machine learning (computer vision), Competitive Programming and Mathematics
-- I'm working on a science fair project right now
+<img src="./assets/github banner.png"></img>
 
-    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirama.sonny@gmail.com)
+
+# About me
+
+Hi! I am Abhirama Sonny, a 14-year-old high-school freshman at the Lowery Freshman Center. I have a strong interest in Computer Science, intending to major in Computer Science and ML in the future. I specialize in AI Engineering, and am keen on exploring Software Engineering, Data Science, Machine Learning, and Web Development, seeking continuous learning in these domains.
 
 # Skills 🛠 
 
@@ -27,6 +27,7 @@
 # Socials and Links 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhiramasonny.github.io/) 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirama-sonny-90452127b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirama.sonny@gmail.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhiramasonny&show_icons=true&theme=dark" />
