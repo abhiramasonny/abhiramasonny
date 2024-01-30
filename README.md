@@ -44,4 +44,5 @@ Hi! I am Abhirama Sonny, a 14-year-old high-school freshman at the Lowery Freshm
 <a href="https://github.com/abhiramasonny/jaithon" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramasonny&repo=jaithon&show_icons=true&theme=dark" />
 </a>
+
 </div>
