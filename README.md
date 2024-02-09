@@ -29,7 +29,9 @@ Hi! I am Abhirama Sonny, a 14-year-old high-school freshman at the Lowery Freshm
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirama-sonny-90452127b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirama.sonny@gmail.com)
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <img src="https://myreadme.vercel.app/api/embed/abhiramasonny?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhiramasonny&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -43,6 +45,6 @@ Hi! I am Abhirama Sonny, a 14-year-old high-school freshman at the Lowery Freshm
 
 <a href="https://github.com/abhiramasonny/jaithon" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramasonny&repo=jaithon&show_icons=true&theme=dark" />
-</a>
+</a>-->
 
 </div>
