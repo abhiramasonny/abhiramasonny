@@ -30,7 +30,7 @@ Hi! I am Abhirama Sonny, a 14-year-old high-school freshman at the Lowery Freshm
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirama.sonny@gmail.com)
 <div>
 
-  <img src="https://myreadme.vercel.app/api/embed/abhiramasonny?panels=userstatistics,toprepositories, toplanguages, commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/abhiramasonny?panels=userstatistics,toprepositories, commitgraph" alt="reimaginedreadme" />
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhiramasonny&show_icons=true&theme=dark" />
 </a>
