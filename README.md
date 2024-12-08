@@ -1,7 +1,3 @@
-
-<img src="./assets/github banner.png"></img>
-
-
 # About me
 
 Hi! I am Abhirama Sonny, a 14-year-old high-school freshman at the Lowery Freshman Center. I have a strong interest in Computer Science, intending to major in Computer Science and ML in the future. I specialize in AI Engineering, and am keen on exploring Software Engineering, Data Science, Machine Learning, and Web Development, seeking continuous learning in these domains.
