@@ -1,6 +1,8 @@
 # About me
 
-Hi! I'm Abhirama Sonny, a student at Allen High School. I intend to major in Computer Science & Molecular Biology, and I have experience programming with Python in machine learning and front and back-end web development. I am also interested in Biology and seek research opportunities or internships in machine learning in these fields.
+Abhirama Sonny is a student at Allen High School. He plans to major in Data Science and has experience programming in Python, machine learning, front and back-end web development, and competitive robotics. He is also interested in fields such as Machine Learning, Computational Biology, Fintech, and Autonomous Vehicles.
+
+Abhirama is currently researching molecular biology and its applications with computer science, working on FTC Robotics, and preparing for USABO. In his free time, Abhirama enjoys biking, playing chess, typing, swimming, playing the violin, and competitive robotics. Abhirama is interested in scientific research and dedicates much of his free time to researching various topics and fields.
 
 
 # Socials and Links 
