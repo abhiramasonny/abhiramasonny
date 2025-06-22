@@ -4,6 +4,8 @@ Abhirama Sonny is a student at Allen High School. He plans to major in Data Scie
 
 Abhirama is currently researching molecular biology and its applications with computer science, working on FTC Robotics, and preparing for USABO. In his free time, Abhirama enjoys biking, playing chess, typing, swimming, playing the violin, and competitive robotics. Abhirama is interested in scientific research and dedicates much of his free time to researching various topics and fields.
 
+Check out his website to learn about him! <a href="https://abhiramasonny.com"> abhiramasonny.com </a>
+
 
 # Socials and Links 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhiramasonny.github.io/) 
