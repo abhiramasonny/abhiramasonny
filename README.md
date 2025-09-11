@@ -1,10 +1,10 @@
 # About me
 
-Abhirama Sonny is a student at Allen High School. He plans to major in Data Science and has experience programming in Python, machine learning, front and back-end web development, and competitive robotics. He is also interested in fields such as Machine Learning, Computational Biology, Fintech, and Autonomous Vehicles.
+<p style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+Hi! I am Abhirama, a high-school junior @ Allen High School based in Dallas, Texas. I am passionate about Startups, Private Equity, Investing, Biology, Computer Science, and Robotics. In my free time, I play chess, bike around, and work on my startup!
 
-Abhirama is currently researching molecular biology and its applications with computer science, working on FTC Robotics, and preparing for USABO. In his free time, Abhirama enjoys biking, playing chess, typing, swimming, playing the violin, and competitive robotics. Abhirama is interested in scientific research and dedicates much of his free time to researching various topics and fields.
-
-Check out his website to learn about him! <a href="https://abhiramasonny.com"> abhiramasonny.com </a>
+Visit my website to learn a bit more: <a href="https://abhiramasonny.com">abhiramasonny.com</a>
+</p>
 
 
 # Socials and Links 
