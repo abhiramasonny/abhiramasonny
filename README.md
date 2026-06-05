@@ -1,7 +1,7 @@
 # About me
 
 <p style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-Hi! I am Abhirama, a high-school junior @ Allen High School based in Dallas, Texas. I am passionate about Startups, Private Equity, Investing, Biology, Computer Science, and Robotics. In my free time, I play chess, bike around, and work on my startup!
+Hi, I'm Abhirama Sonny, a CS student at UT Austin. I graduated high school at 16 and spent all 3 years building across a lot of different areas, mostly agentic chain of thought systems, deep learning in health care, and robotics. I love building projects continuously, and I think the best way to get to my goals is to keep shipping polished products. In my free time, I type competitively, play chess on chess.com (2200 elo), or I'm building something new.
 
 Visit my website to learn a bit more: <a href="https://abhiramasonny.com">abhiramasonny.com</a>
 </p>
