@@ -14,5 +14,6 @@ Visit my website to learn a bit more: <a href="https://abhiramasonny.com">abhira
 <div>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramasonny&theme=tokyonight" alt="mystreak"/>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abhiramasonny&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=abhiramasonny&show_icons=true&include_all_commits=true&theme=tokyonight)
   
 </div>
